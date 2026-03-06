@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Atelier de Leadership Jeune",
+    "description": "Un atelier interactif visant à développer les compétences en leadership chez les jeunes activistes. Les participants apprendront les techniques de communication, la gestion d'équipe et la prise de décision stratégique.",
+    "startDate": "2025-12-01",
+    "endDate": "2025-12-15",
+    "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=640&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Campagne de Sensibilisation Environnementale",
+    "description": "Une campagne de terrain pour sensibiliser la communauté locale aux enjeux environnementaux. Incluant des ateliers éducatifs, des actions de nettoyage et des conférences avec des experts.",
+    "startDate": "2026-02-15",
+    "endDate": "2026-04-10",
+    "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=640&q=80"
+  },
+  {
+    "id": 3,
+    "title": "Forum des Jeunes Innovateurs",
+    "description": "Un forum rassemblant de jeunes innovateurs pour présenter leurs projets et idées. Une opportunité unique de réseautage, de mentorat et de collaboration entre jeunes leaders.",
+    "startDate": "2026-05-01",
+    "endDate": "2026-05-03",
+    "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=640&q=80"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Projet Éducation Pour Tous",
+    "description": "Initiative visant à fournir un accès équitable à l'éducation pour les jeunes dans les zones rurales. Le projet inclut la distribution de fournitures scolaires, le tutorat et la construction de bibliothèques communautaires.",
+    "startDate": "2025-09-01",
+    "endDate": "2025-11-30",
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=640&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Projet Santé Communautaire",
+    "description": "Programme de sensibilisation à la santé dans les communautés défavorisées. Comprend des journées de dépistage gratuit, des ateliers sur l'hygiène et la nutrition, et la formation d'agents de santé communautaires.",
+    "startDate": "2026-01-15",
+    "endDate": "2026-06-30",
+    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=640&q=80"
+  },
+  {
+    "id": 3,
+    "title": "Projet Autonomisation des Femmes",
+    "description": "Programme dédié à l'autonomisation économique et sociale des jeunes femmes. Formations en entrepreneuriat, ateliers de développement personnel et mise en réseau avec des mentors professionnels.",
+    "startDate": "2026-07-01",
+    "endDate": "2026-12-31",
+    "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=640&q=80"
+  }
+]

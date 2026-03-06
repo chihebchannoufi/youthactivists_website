@@ -16,7 +16,7 @@ const latestActivities = ref(activitiesData.slice(0, 3))
     <div class="hero-overlay"></div>
     <div class="container position-relative" style="z-index: 2;">
       <div class="mb-4">
-        <span class="mdi mdi-account-group hero-icon"></span>
+        <img src="/images/logo.png" alt="Youth Activists Logo" class="hero-logo" />
       </div>
       <h1 class="display-4 fw-bold mb-3">Youth Activists</h1>
       <p class="lead mb-4 mx-auto" style="max-width: 600px;">
@@ -136,16 +136,13 @@ const latestActivities = ref(activitiesData.slice(0, 3))
   z-index: 1;
 }
 
-.hero-icon {
-  font-size: 4rem;
-  color: var(--primary);
-  background: rgba(255, 255, 255, 0.1);
-  border-radius: 50%;
+.hero-logo {
   width: 100px;
   height: 100px;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
+  object-fit: contain;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 10px;
 }
 
 .stat-card {
